@@ -20,4 +20,5 @@ SQL (MySQL)
 DBMS (MySQL Workbench)
 SQL project to analyze online music store data
 Schema- pizza_sales  Database
+![image](https://github.com/user-attachments/assets/dc52b00c-365d-4856-8c92-60df20161583)
 
