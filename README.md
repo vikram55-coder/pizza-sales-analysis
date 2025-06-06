@@ -18,3 +18,6 @@ pizza_types: Category, ingredients
 Tools Used
 SQL (MySQL)
 DBMS (MySQL Workbench)
+SQL project to analyze online music store data
+Schema- pizza_sales  Database
+
